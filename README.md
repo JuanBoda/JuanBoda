@@ -45,7 +45,7 @@ What it shows:
 
 ## Academic Project
 
-### [University Notes Platform](https://github.com/colochampre/django_apuntes)
+### [University Notes Platform](https://github.com/JuanBoda/django_apuntes)
 
 Collaborative university project built with Django to help students share, organize, search, rate, and download study notes for free.
 
@@ -63,6 +63,7 @@ My contribution focused on:
 - Testing of critical behavior and permissions.
 - Review of user, file, and business-rule scenarios.
 
+Personal fork: [JuanBoda/django_apuntes](https://github.com/JuanBoda/django_apuntes)  
 Original collaborative repository: [colochampre/django_apuntes](https://github.com/colochampre/django_apuntes)
 
 ## Portfolio Direction
