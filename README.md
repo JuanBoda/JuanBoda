@@ -1,4 +1,4 @@
-![Banner de Juan Pedro Boda QA](banner_github_juan_boda.png)
+![Banner de Juan Pedro Boda QA](banner-github-juan.webp)
 
 ## 💻 Tech Stack 
 
