@@ -2,33 +2,50 @@
 
 # Juan Pedro Boda
 
-QA Tester based in Buenos Aires, Argentina. I am building a portfolio focused on manual testing, test automation, data validation, and practical quality workflows.
+QA Tester based in Buenos Aires, Argentina. I am building a portfolio around software quality, test automation, data validation, and clear technical documentation.
 
-I use GitHub to document what I am learning and to turn work experience into safe public simulations: small projects that explain the context, the problem, my role, the tools used, and the solution implemented.
+This profile is a work in progress. My goal is to turn learning and professional experience into public, readable projects that show context, decisions, tools, and results without exposing private company information.
 
-## Current Focus
+## What I Do
 
-- QA Automation with Python, Selenium, Pytest, and Playwright.
-- Test design, regression testing, and bug documentation.
-- Data validation with SQL, PostgreSQL, and MySQL.
-- CI/CD practices with GitHub Actions.
-- Clear technical documentation for portfolio projects.
+- Design and document test cases, scenarios, and regression flows.
+- Build automation projects with Python, Selenium, Pytest, and Playwright.
+- Validate data behavior with SQL, PostgreSQL, and MySQL.
+- Use CI/CD workflows to run tests and keep evidence of execution.
+- Write documentation that explains the problem, my role, and the solution.
 
-## Featured Work
+## Featured Project
 
-### QA Architecture Selenium Framework
+### [QA Architecture Selenium Framework](https://github.com/JuanBoda/qa-architecture-selenium-framework)
 
-Portfolio simulation of a QA automation framework for a shared component platform.
+Public portfolio simulation of a QA automation framework for a shared component platform.
 
-- Built a Python and Selenium test framework using Page Object Model.
-- Added component-level abstractions for reusable UI validation.
-- Validated backend persistence with SQL and PostgreSQL.
-- Integrated automated test execution with GitHub Actions.
-- Documented architecture, test strategy, and local execution.
+What it shows:
 
-Repository: [qa-architecture-selenium-framework](https://github.com/JuanBoda/qa-architecture-selenium-framework)
+- Page Object Model and component-level abstractions.
+- Selenium UI tests with Pytest fixtures.
+- PostgreSQL validation for backend persistence.
+- Docker-based local setup.
+- GitHub Actions pipeline with test report generation.
+
+## Portfolio Direction
+
+I am organizing my GitHub around projects connected to my CV. Each repository should answer four practical questions:
+
+- What does the project do?
+- What problem does it solve?
+- What did I personally work on?
+- What tools and evidence support the result?
 
 ## Tech Stack
+
+**Testing and automation**
+
+![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
+
+**Languages and web**
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -36,9 +53,7 @@ Repository: [qa-architecture-selenium-framework](https://github.com/JuanBoda/qa-
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
+**Data, infrastructure, and workflow**
 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
