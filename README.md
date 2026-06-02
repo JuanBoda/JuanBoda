@@ -43,6 +43,28 @@ What it shows:
 - Docker-based local setup.
 - GitHub Actions pipeline with test report generation.
 
+## Academic Project
+
+### [University Notes Platform](https://github.com/colochampre/django_apuntes)
+
+Collaborative university project built with Django to help students share, organize, search, rate, and download study notes for free.
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/Testing-2563EB?style=flat-square" alt="Testing" />
+</p>
+
+My contribution focused on:
+
+- Backend development with Django.
+- Validation of upload, download, and note management flows.
+- Testing of critical behavior and permissions.
+- Review of user, file, and business-rule scenarios.
+
+Original collaborative repository: [colochampre/django_apuntes](https://github.com/colochampre/django_apuntes)
+
 ## Portfolio Direction
 
 I am organizing my GitHub around projects connected to my CV. Each repository should answer four practical questions:
