@@ -1,6 +1,13 @@
 ![Banner de Juan Pedro Boda QA](banner-github-juan.webp)
 
-# Juan Pedro Boda
+## Who I am, what I do, and how I work
+
+<p align="left">
+  <img src="https://img.shields.io/badge/QA-Tester-2563EB?style=for-the-badge" alt="QA Tester" />
+  <img src="https://img.shields.io/badge/Test-Automation-16A34A?style=for-the-badge" alt="Test Automation" />
+  <img src="https://img.shields.io/badge/Data-Validation-9333EA?style=for-the-badge" alt="Data Validation" />
+  <img src="https://img.shields.io/badge/Documentation-C2410C?style=for-the-badge" alt="Documentation" />
+</p>
 
 QA Tester based in Buenos Aires, Argentina. I am building a portfolio around software quality, test automation, data validation, and clear technical documentation.
 
@@ -19,6 +26,14 @@ This profile is a work in progress. My goal is to turn learning and professional
 ### [QA Architecture Selenium Framework](https://github.com/JuanBoda/qa-architecture-selenium-framework)
 
 Public portfolio simulation of a QA automation framework for a shared component platform.
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" alt="Selenium" />
+  <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" alt="Pytest" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" alt="GitHub Actions" />
+</p>
 
 What it shows:
 
@@ -60,3 +75,9 @@ I am organizing my GitHub around projects connected to my CV. Each repository sh
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+
+## GitHub Activity
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanBoda&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+</p>
