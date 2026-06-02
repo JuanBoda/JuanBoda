@@ -100,6 +100,6 @@ I am organizing my GitHub around projects connected to my CV. Each repository sh
 
 ## GitHub Activity
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanBoda&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</p>
+- Profile activity: [github.com/JuanBoda](https://github.com/JuanBoda)
+- Public repositories: [github.com/JuanBoda?tab=repositories](https://github.com/JuanBoda?tab=repositories)
+- Current focus: portfolio projects with clear documentation, QA context, and evidence of testing work.
