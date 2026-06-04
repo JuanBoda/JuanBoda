@@ -1,4 +1,4 @@
-![Banner de Juan Pedro Boda QA](banner-github-juan.webp)
+![Banner de Juan Pedro Boda QA](banner.webp)
 
 ## Who I am, what I do, and how I work
 
