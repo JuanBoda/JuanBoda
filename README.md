@@ -1,6 +1,6 @@
-![Banner de Juan Pedro Boda QA](banner.webp)
+![Banner de Juan Pedro Boda QA](banner.png)
 
-## Who I am, what I do, and how I work
+## About me
 
 <p align="left">
   <img src="https://img.shields.io/badge/QA-Tester-2563EB?style=for-the-badge" alt="QA Tester" />
