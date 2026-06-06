@@ -1,4 +1,4 @@
-![Banner de Juan Pedro Boda QA](banner.png)
+![Banner de Juan Pedro Boda QA](banner.webp)
 
 ## About me
 
